@@ -1,0 +1,92 @@
+﻿segment;manufacturer;Order ID
+Home Office;Acco;1
+Consumer;ACCOHIDE;1
+Consumer;Acme;1
+Corporate;Acme;1
+Home Office;Acme;1
+Home Office;Advantus;1
+Consumer;Akro;1
+Consumer;AT&T;1
+Consumer;Avery;8
+Corporate;Avery;2
+Home Office;Avery;2
+Corporate;Belkin;1
+Consumer;Boston;1
+Home Office;Bush;1
+Consumer;Canon;1
+Consumer;Cardinal;1
+Corporate;Cardinal;1
+Corporate;Carina;2
+Consumer;Eldon;4
+Home Office;Eldon;2
+Consumer;Enermax;1
+Corporate;Eureka;1
+Corporate;Executive Impressions;1
+Consumer;Fellowes;3
+Corporate;Fellowes;3
+Home Office;Fellowes;2
+Consumer;GBC;2
+Corporate;GBC;2
+Consumer;GE;1
+Consumer;Global;1
+Corporate;Global;2
+Home Office;Global;1
+Consumer;Hon;1
+Corporate;Hon;1
+Consumer;Ibico;1
+Corporate;Ibico;1
+Home Office;Iceberg;1
+Corporate;Imation;2
+Consumer;Iris;1
+Consumer;Jabra;1
+Corporate;Jabra;1
+Consumer;KI;1
+Corporate;KI;1
+Corporate;Kingston;1
+Consumer;Lesro;1
+Corporate;Lesro;1
+Consumer;Logitech;2
+Corporate;Logitech;1
+Home Office;Logitech;1
+Home Office;Luxo;1
+Consumer;Memorex;2
+Corporate;Memorex;1
+Home Office;Mitel;1
+Consumer;Newell;6
+Home Office;Newell;1
+Consumer;Novimex;3
+Home Office;Novimex;2
+Consumer;Okidata;1
+Consumer;Other;18
+Corporate;Other;9
+Home Office;Other;2
+Corporate;OtterBox;1
+Corporate;Panasonic;1
+Corporate;Peel & Seel;1
+Consumer;Plantronics;1
+Home Office;Plantronics;1
+Consumer;Polycom;1
+Consumer;Razer;1
+Home Office;RCA;1
+Consumer;REDIFORM;1
+Consumer;SAFCO;3
+Corporate;SAFCO;1
+Corporate;Samsung;1
+Consumer;Sanford;1
+Consumer;Sauder;1
+Corporate;Sauder;1
+Corporate;Southworth;1
+Consumer;Standard;1
+Consumer;Staple-based wall hangings;1
+Consumer;Staple envelope;1
+Corporate;Staple envelope;1
+Corporate;Sterilite;1
+Consumer;Tenex;1
+Corporate;Tennsco;1
+Home Office;Tennsco;1
+Consumer;Wilson Jones;2
+Corporate;Wilson Jones;1
+Consumer;Xerox;10
+Corporate;Xerox;6
+Home Office;Xerox;2
+Consumer;Zebra;1
